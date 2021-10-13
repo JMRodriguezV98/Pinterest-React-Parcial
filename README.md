@@ -16,7 +16,7 @@ Este proyecto fue por Jhon Robert Uribe y Javier Mauricio Rodriguez utilizando R
 ## bocetos de distribucion de los componentes y elementos de la aplicacion
 ## Para Web
 
-![Web](https://user-images.githubusercontent.com/89543370/137222646-a717771e-2f88-4414-81d4-66ced68de94f.png)
+![desktop](https://user-images.githubusercontent.com/89543370/137224547-c0c8558b-f9aa-41a8-8ef2-3742f4c1880c.png)
 
 Para esta vista se creo el componente **HeaderLayout.jsx()** el cual contiene dentro un div principal donde se guardaran sus elementos como el logo, los textos, searchbar y los iconos, cada uno con su div que contendra los svg y el input en el caso del search bar
 
