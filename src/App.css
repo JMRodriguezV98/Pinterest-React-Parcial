@@ -1,0 +1,59 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: white;
+}
+
+.img-onHover{
+  opacity: 0.5;
+}
+
+.btn-puntos:hover{
+  background-color:rgb(214, 0, 0) ;
+}
+.btn-h:hover{
+  background-color:gray;
+}
+
+.inicio:hover{
+  background-color:red;
+}
+
+.headerTel{
+  display:none;
+}
+
+.pop{
+  grid-template-columns: repeat(auto-fill, 250px); 
+}
+
+@media screen and (max-width:600px){
+  .headerPC{
+    display: none;
+  }
+
+  .headerTel{
+    display:flex;
+    transition: all 0.5;
+  }
+
+  .ilustration{
+    
+  }
+
+  .pop{
+    grid-template-columns: repeat(auto-fill, 140px); 
+  }
+
+  .small{
+    grid-row-end : span 20 !important;
+  }
+
+  .medium{
+    grid-row-end : span 20 !important;
+  }
+
+  .large{
+    grid-row-end : span 20 !important;
+  }
+}
