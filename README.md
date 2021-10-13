@@ -22,16 +22,16 @@ Para esta vista se creo el componente **HeaderLayout.jsx()** el cual contiene de
 
 ## Para Movil
 
-![movil](https://user-images.githubusercontent.com/89543370/137222700-d7cbe045-20d1-484d-8ad2-4d7415d5bb9e.png)
+![movilV](https://user-images.githubusercontent.com/89543370/137225013-126c098e-372a-47fc-ad54-bdeee7f6d29a.png)
 
 Para esta vista se creo el componente **HeaderTelefono.jsx()** el cual contiene dentro un div principal de estilo y dentro de este los div respectivos con los textos, tambien se hizo el componente **FootTel.jsx()** el cual contiene los divs de los iconos que se van a utilizar
 
 ## Para ultraWide
 
-![ultraWide](https://user-images.githubusercontent.com/89543370/137222715-1e7473c9-130e-4363-91a9-eeeeb5d1a581.png)
+![UltraW](https://user-images.githubusercontent.com/89543370/137225185-9e1f63ea-4e33-4f3b-b319-5a15db05aa43.png)
 
 En esta viste se uso exactamente igual a la vista de desktop
 
 #
 
-
+El componente **Pincard.jsx()** cumple con la funcion de establecer como sera la forma de las imagenes y el componente **PinterestLayout.jsx()** es el que cumple con dar la forma al pinterest, cuantos Pincards tendra,que imagenes se estaran viendo y de que tamaño seran los pincards colocados
